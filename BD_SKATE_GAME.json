@@ -1,0 +1,144 @@
+/** 
+* Insert participantes
+*/
+
+/** 
+* Participante 1
+*/
+{
+  "nombre": "Laura Daniela Romero",
+  "status": "Ganador",
+  "letras registradas": 2,
+  "Trucos":{
+    "1":"Ollie",
+    "2":"Pop Shove It",
+    "3":"Frontside Ollie",
+    "4":"Backside Ollie",
+    "5":"Heelflip",
+    "6":"Switch Ollie",
+    "7":"Nollie ",
+    "8":"Varial Flip",
+    "9":"Varial Heelflip",
+    "10":"Kickflip"
+  },
+  "Trucos Fallidos":{
+    "S":"Backside Ollie",
+    "K":"Kickflip"
+  }
+}
+
+
+/** 
+* Participante 2
+*/
+{
+  "nombre": "Miguel Angel Flores Teran",
+  "status": "Perdedor",
+  "letras registradas": 5,
+  "Trucos":{
+    "1":"Ollie",
+    "2":"Pop Shove It",
+    "3":"Frontside Ollie",
+    "4":"Backside Ollie",
+    "5":"Heelflip",
+    "6":"Switch Ollie",
+    "7":"Nollie ",
+    "8":"Varial Flip",
+    "9":"Varial Heelflip",
+    "10":"Kickflip"
+  },
+  "Trucos Fallidos":{
+    "S":"Pop Shove It",
+    "K":"Frontside Ollie",
+    "A":"Backside Ollie",
+    "T":"Heelflip",
+    "E":"Switch Ollie"
+  }
+}
+
+
+/** 
+* Participante 3
+*/
+{
+  "nombre": "Jhon Sebatian Zamudio Avila",
+  "status": "Perdedor",
+  "letras registradas": 5,
+  "Trucos":{
+    "1":"Ollie",
+    "2":"Pop Shove It",
+    "3":"Frontside Ollie",
+    "4":"Backside Ollie",
+    "5":"Heelflip",
+    "6":"Switch Ollie",
+    "7":"Nollie ",
+    "8":"Varial Flip",
+    "9":"Varial Heelflip",
+    "10":"Kickflip"
+  },
+  "Trucos Fallidos":{
+    "S":"Ollie",
+    "K":"Pop Shove It",
+    "A":"Frontside Ollie",
+    "T":"Backside Ollie",
+    "E":"Heelflip"
+  }
+}
+
+
+/** 
+* Participante 4
+*/
+{
+  "nombre": "Ana Silvia Montera Simbaqueba",
+  "status": "Perdedor",
+  "letras registradas": 5,
+  "Trucos":{
+    "1":"Ollie",
+    "2":"Pop Shove It",
+    "3":"Frontside Ollie",
+    "4":"Backside Ollie",
+    "5":"Heelflip",
+    "6":"Switch Ollie",
+    "7":"Nollie ",
+    "8":"Varial Flip",
+    "9":"Varial Heelflip",
+    "10":"Kickflip"
+  },
+  "Trucos Fallidos":{
+    "S":"Ollie",
+    "K":"Pop Shove It",
+    "A":"Frontside Ollie",
+    "T":"Varial Heelflip",
+    "E":"Kickflip"
+  }
+}
+
+
+/** 
+* Participante 5
+*/
+{
+  "nombre": "Hector Antonio Rodriguez Castro",
+  "status": "Perdedor",
+  "letras registradas": 5,
+  "Trucos":{
+    "1":"Ollie",
+    "2":"Pop Shove It",
+    "3":"Frontside Ollie",
+    "4":"Backside Ollie",
+    "5":"Heelflip",
+    "6":"Switch Ollie",
+    "7":"Nollie ",
+    "8":"Varial Flip",
+    "9":"Varial Heelflip",
+    "10":"Kickflip"
+  },
+  "Trucos Fallidos":{
+    "S":"Ollie",
+    "K":"Pop Shove It",
+    "A":"Switch Ollie",
+    "T":"Varial Flip",
+    "E":"Kickflip"
+  }
+}
