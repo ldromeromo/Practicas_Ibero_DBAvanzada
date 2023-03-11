@@ -4,7 +4,7 @@ Script de DB en Mongo DB
 Estructura
 ```JSON
 /** 
-* Paste one or more documents here
+* Participantes 
 */
 {
   "nombre": "Name",
