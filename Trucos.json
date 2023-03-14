@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6410bf3d7b0f6b0beb1431f6"
+  },
+  "Truco 1": "Ollie",
+  "Registrado": "Laura Daniela Romero"
+},{
+  "_id": {
+    "$oid": "6410bf597b0f6b0beb1431f7"
+  },
+  "Truco 2": "Pop Shove It",
+  "Registrado": "Laura Daniela Romero"
+},{
+  "_id": {
+    "$oid": "6410bf6d7b0f6b0beb1431f8"
+  },
+  "Truco 3": "Frontside Ollie",
+  "Registrado": "Miguel Angel Flores Teran"
+},{
+  "_id": {
+    "$oid": "6410bf7e7b0f6b0beb1431f9"
+  },
+  "Truco 4": "Backside Ollie",
+  "Registrado": "Jhon Sebatian Zamudio Avila"
+},{
+  "_id": {
+    "$oid": "6410bf8f7b0f6b0beb1431fa"
+  },
+  "Truco 5": "Heelflip",
+  "Registrado": "Jhon Sebatian Zamudio Avila"
+},{
+  "_id": {
+    "$oid": "6410bf9a7b0f6b0beb1431fb"
+  },
+  "Truco 6": "Switch Ollie",
+  "Registrado": "Jhon Sebatian Zamudio Avila"
+},{
+  "_id": {
+    "$oid": "6410bfab7b0f6b0beb1431fc"
+  },
+  "Truco 7": "Nollie ",
+  "Registrado": "Jhon Sebatian Zamudio Avila"
+},{
+  "_id": {
+    "$oid": "6410bfb57b0f6b0beb1431fd"
+  },
+  "Truco 8": "Varial Flip",
+  "Registrado": "Ana Silvia Montera Simbaqueba"
+},{
+  "_id": {
+    "$oid": "6410bfc37b0f6b0beb1431fe"
+  },
+  "Truco 9": "Varial Heelflip",
+  "Registrado": "Ana Silvia Montera Simbaqueba"
+},{
+  "_id": {
+    "$oid": "6410bfcb7b0f6b0beb1431ff"
+  },
+  "Truco 10": "Kickflip",
+  "Registrado": "Hector Antonio Rodriguez Castro"
+}]
