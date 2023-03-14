@@ -4,7 +4,7 @@ Script de DB en Mongo DB
 Estructura
 ```JSON
 /** 
-* Participantes 
+* TORNEO 
 */
 {
   "nombre": "Name",
@@ -27,3 +27,25 @@ Estructura
 }
 ```
 
+
+```JSON
+/** 
+* Trucos 
+*/
+  {
+    "Truco 1": "Truco",
+    "Registrado": "Name"
+  }
+}
+```
+
+
+```JSON
+/** 
+* Participantes  
+*/
+{
+  "nombre": "Name",
+  "status": "Ganador/  Perdedor"
+}
+```
