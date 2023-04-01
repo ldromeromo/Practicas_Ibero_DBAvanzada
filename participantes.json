@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "640c9ed5f8f52faea20b6f39"
+  },
+  "nombre": "Laura Daniela Romero",
+  "status": "Ganador"
+},{
+  "_id": {
+    "$oid": "640c9eeaf8f52faea20b6f3b"
+  },
+  "nombre": "Miguel Angel Flores Teran",
+  "status": "Perdedor"
+},{
+  "_id": {
+    "$oid": "640c9efcf8f52faea20b6f3d"
+  },
+  "nombre": "Jhon Sebatian Zamudio Avila",
+  "status": "Perdedor"
+},{
+  "_id": {
+    "$oid": "640c9f9af8f52faea20b6f3f"
+  },
+  "nombre": "Ana Silvia Montera Simbaqueba",
+  "status": "Perdedor"
+},{
+  "_id": {
+    "$oid": "640c9faff8f52faea20b6f41"
+  },
+  "nombre": "Hector Antonio Rodriguez Castro",
+  "status": "Perdedor"
+},{
+  "_id": {
+    "$oid": "6427cc563fa55999f33145a9"
+  },
+  "nombre": "William Ruiz",
+  "status": "Ganador"
+}]
